@@ -1,0 +1,6 @@
+[submodule "lab"]
+	path = lab
+	url = git@github.com:edidada/rCore-Tutorial-v3.git
+[submodule "lecture"]
+	path = lecture
+	url = git@github.com:edidada/rCore-Tutorial-Book-v3.git
